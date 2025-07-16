@@ -1,0 +1,35 @@
+[
+    {
+        "student_id": 1,
+        "name": "Nguyen Dinh Chinh",
+        "age": 22,
+        "grades": [
+            10.0,
+            5.0
+        ]
+    },
+    {
+        "student_id": 2,
+        "name": "Le Phuong Nhung",
+        "age": 20,
+        "grades": [
+            10.0
+        ]
+    },
+    {
+        "student_id": 3,
+        "name": "Nguyen Quynh Chi",
+        "age": 21,
+        "grades": [
+            9.0
+        ]
+    },
+    {
+        "student_id": 4,
+        "name": "Vu Kieu Diem",
+        "age": 23,
+        "grades": [
+            9.5
+        ]
+    }
+]
